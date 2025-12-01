@@ -24,7 +24,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "mysink" // IMPORTANT: Change this to your KV namespace ID
+      "id": "a9cbe2cfee68406da49c34925dde6b25" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
 }
